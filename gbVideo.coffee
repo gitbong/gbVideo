@@ -1,3 +1,8 @@
+###*
+    # create by gitbong 2015/11/02
+    # github:gitbong
+###
+
 class gbVideo
 	_evtMap: {}
 
